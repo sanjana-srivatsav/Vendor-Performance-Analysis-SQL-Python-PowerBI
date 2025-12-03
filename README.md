@@ -120,8 +120,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](https://github.com/sanjana-srivatsav/Vendor-Performance-Analysis-SQL-Python-PowerBI/raw/main/images/dashboard.png
-)
+![Vendor Performance Dashboard](dashboardimage.png)
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
